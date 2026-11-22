@@ -10,6 +10,17 @@ DualShock 4 ──Bluetooth──► ESP32 ──UART 115200──► micro:bit
 Esta extensão apenas conversa com o firmware **DualBit Bridge**. Grave o
 firmware no ESP32 antes de usar os blocos.
 
+## Instalação
+
+No MakeCode (micro:bit): **Extensões → GitHub** → cole
+
+```
+https://github.com/ThiagoAlmeidaSiqueira/pxt-dualbit-bridge
+```
+
+Firmware, esquema de ligação e protocolo:
+**https://github.com/ThiagoAlmeidaSiqueira/dualbit-bridge**
+
 ## Ligação
 
 | ESP32 | micro:bit |
