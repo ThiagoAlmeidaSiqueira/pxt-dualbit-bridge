@@ -1,0 +1,22 @@
+﻿{
+    "name": "dualbit-bridge",
+    "version": "1.0.0",
+    "description": "DualBit Bridge: conecte um controle PlayStation 4 (DualShock 4) ao micro:bit usando um ESP32 como ponte Bluetooth <-> Serial.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "LICENSE",
+        "enums.ts",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [],
+    "target": "microbit",
+    "supportedTargets": [
+        "microbit"
+    ],
+    "public": true,
+    "preferredEditor": "blocksprj"
+}
